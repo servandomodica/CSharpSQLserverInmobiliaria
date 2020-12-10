@@ -1,0 +1,14 @@
+C:\tp2\Proyecto21\Proyecto21\bin\Debug\Proyecto21.exe.config
+C:\tp2\Proyecto21\Proyecto21\bin\Debug\Proyecto21.exe
+C:\tp2\Proyecto21\Proyecto21\bin\Debug\Proyecto21.pdb
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.csprojAssemblyReference.cache
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.Properties.Resources.resources
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.csproj.GenerateResource.cache
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.csproj.CoreCompileInputs.cache
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.exe
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.pdb
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.FormularioBarrios.resources
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.FormularioPrincipal.resources
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.FormularioInmuebles.resources
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.FormularioConsultaPorBarrio.resources
+C:\tp2\Proyecto21\Proyecto21\obj\Debug\Proyecto21.FormularioConsultaPorPrecio.resources
